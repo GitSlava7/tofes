@@ -1,0 +1,19 @@
+html, body {
+    box-sizing: border-box;
+    background-color:lemonchiffon ;
+}
+
+table, td {
+    border: 1px solid gray;
+    margin-left: 50px; 
+}
+
+form {
+    margin-left: 50px;
+    margin-top: 50px;
+}
+
+#my_cart {
+    margin-left: 50px;
+    margin-top: 50px;
+}
